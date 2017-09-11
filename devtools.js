@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("React Lifecycle Viewer", null, "panel.html", null);
